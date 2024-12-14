@@ -1,1 +1,1 @@
-# Email-spam-detection using Machine learning
+Spam email detection using "machine learning" involves to identify and filter out unwanted emails (spam) from important ones (non-spam). The process starts with collecting a large dataset of emails, both spam and non-spam, for training. Key patterns or characteristics, such as specific words, phrases, sender details, or links. A machine learning algorithm, like "Naive Bayes" is trained on these features to recognize spam patterns. The model is trained and tested on new emails to ensure that.It accurately detects spam emails.
